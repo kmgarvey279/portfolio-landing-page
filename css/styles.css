@@ -4,18 +4,13 @@ body {
 
 }
 .panel-heading {
-  background-color: sandybrown !important;
+  background-color: coral !important;
   border: 3px solid coral !important;
 }
 
 .panel-body {
   background-color: sandybrown;
   border: 3px solid orange;
-
-.header {
-  background-color: red;
-}
-
 }
 
  ol {
@@ -24,12 +19,17 @@ body {
    white-space: nowrap;
  }
 
-
 img {
   height: 300px;
-  width: 400px;
+  width: 300px;
   margin-left: auto;
   margin-right: auto;
   display: block;
   margin-bottom: 50px;
+}
+
+.jumbotron {
+  margin-top: 20px;
+  text-align:center;
+  background-color: coral;
 }
