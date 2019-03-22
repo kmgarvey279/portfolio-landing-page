@@ -11,21 +11,17 @@ body {
 .panel-body {
   background-color: sandybrown;
   border: 5px solid orange;
+  padding:10px;
 }
 
  ol {
    text-align: center;
    list-style-position: inside;
-   word-wrap: break-word
+   word-wrap: break-word;
+   margin:10px;
+   padding:10px;
 
  }
-
-p.list {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-
-}
 
 img {
   height: 300px;
@@ -50,5 +46,3 @@ img {
   font-style:oblique;
   color: midnightblue;
 }
-
-  float: left;
