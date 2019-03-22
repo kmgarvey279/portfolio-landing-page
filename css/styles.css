@@ -5,12 +5,12 @@ body {
 }
 .panel-heading {
   background-color: coral !important;
-  border: 3px solid coral !important;
+  border: 5px solid tomato !important;
 }
 
 .panel-body {
   background-color: sandybrown;
-  border: 3px solid orange;
+  border: 5px solid orange;
 }
 
  ol {
@@ -34,15 +34,21 @@ img {
   margin-right: auto;
   display: block;
   margin-bottom: 50px;
+  margin: 12px;
+  padding: 6px;
+  float:right;
 }
 
 .jumbotron {
   margin-top: 20px;
   text-align:center;
   background-color: coral;
+  border: 5px solid tomato;
 }
 
 .state{
   font-style:oblique;
   color: midnightblue;
 }
+
+  float: left;
