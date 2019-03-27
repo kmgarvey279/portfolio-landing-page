@@ -7,7 +7,7 @@
 ## Description
 
 _This page provides a brief overview of myself, including some of the places I've lived, my education and work history, and what brought me to Epicodus. More importantly,
-it links to a number of the projects I completed during my first week at Epicodus._
+it links to a number of the projects I completed during my first week at Epicodus. The pages included are as follows:https://kmgarvey279.github.io/cookie-recipe/, https://kmgarvey279.github.io/my-first-webpage/, https://kmgarvey279.github.io/asha-homepage/, https://kmgarvey279.github.io/resort/, https://kmgarvey279.github.io/band-webpage/, https://kmgarvey279.github.io/animal-shelter/, https://kmgarvey279.github.io/Norway-Website/, https://kmgarvey279.github.io/Wiki-Project/_
 
 ## Setup/Installation Requirements
 
@@ -18,8 +18,8 @@ it links to a number of the projects I completed during my first week at Epicodu
 ## Known Bugs
 
 _I was unable to successfully link all of the projects to the page.
-_The numbered list displays incorrectly in certain web browsers. All items display as "1"._
 _*03.25.2018* this issue has been resolved and all links should be fully functional._
+_The numbered list displays incorrectly in certain web browsers. All items display as "1"._
 
 ## Support and contact details
 
