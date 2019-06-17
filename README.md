@@ -18,7 +18,7 @@ it links to a number of the projects I completed during my first week at Epicodu
 
 ## Known Bugs
 
-_I was unable to successfully link all of the projects to the page.
+_I was unable to successfully link all of the projects to the page._
 _*03.25.2018* this issue has been resolved and all links should be fully functional._
 _The numbered list displays incorrectly in certain web browsers. All items display as "1"._
 
