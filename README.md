@@ -2,7 +2,7 @@
 
 #### _This pages serves as a portfolio for the projects created during my first week at Epicodus, 03.22.2019_
 
-#### By _**Kevin Garvey** _
+#### By _**Kevin Garvey**_
 
 ## Description
 
